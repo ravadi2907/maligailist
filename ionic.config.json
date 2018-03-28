@@ -1,0 +1,8 @@
+{
+  "name": "maligailist",
+  "app_id": "0a54994d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
